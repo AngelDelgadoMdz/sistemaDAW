@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="https://media.tenor.com/U1feh6CLTYUAAAAC/fogata.gif"  style="width: 150px;" alt="Punto de guardado">
+<img src="https://i.pinimg.com/originals/23/45/f9/2345f9d305ed0635931f01407e7d668e.gif"  style="width: 150px;" alt="Punto de guardado">
 </div>
 
 # Evidencia 2 Diseño de aplicaciones web
