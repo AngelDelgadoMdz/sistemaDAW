@@ -1,6 +1,10 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://i.pinimg.com/originals/23/45/f9/2345f9d305ed0635931f01407e7d668e.gif" style="width: 250px;" alt="Punto de guardado">
-</div>
+<style>
+      body {
+        background-image: url('https://i.pinimg.com/originals/23/45/f9/2345f9d305ed0635931f01407e7d668e.gif');
+        background-size: cover;
+        opacity: 0.8;
+      }
+</style>
 
 # Evidencia 2 Diseño de aplicaciones web
 ## Angel Santiago Delgado Mendoza - 2959951
